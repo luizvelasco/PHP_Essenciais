@@ -5,6 +5,7 @@ $numero = $numero + 10;
 $numero += 10;
 
 echo "$numero <br>";
+echo "$numero <br>";
 
 $string = "Treinaweb ";
 $string = $string . "Cursos";
